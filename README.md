@@ -6,7 +6,7 @@
 
 - 2 . La version courante de la specification JEE est : Jakarta EE 9 (le 25 Mai 2021)
 
-- 3 .	Les versions LTS Java sont : Java 8, 11, 17
+- 3 .	Les versions LTS Java sont : Java 8, 11, 17, 21
 
 - 4 .	AOP : La séparation des aspects métiers et des aspects techniques d'une application est rendu possible grâce à la programmation Orienté Aspect.
 
