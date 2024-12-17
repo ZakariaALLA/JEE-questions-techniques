@@ -359,3 +359,28 @@ Nous devrions l'utiliser lorsque nous voulons construire des systèmes qui sont 
 - 20 .	C'est quoi MapStruct ? Pour faire le mapping objet / objet ( DTO)
 
 - 21 .	Quand est-we que on est besion de Base de données NoSql ? Quand la quantité de données est très importante, exemple MongoDb
+
+#### Partie 7: SOLID et Craft
+
+- 1 . Voici les principes SOLID présentés sous forme de tableau :
+
+| **Principe**                      | **Description**                                                                 |
+|------------------------------------|---------------------------------------------------------------------------------|
+| **Single Responsibility Principle (SRP)** | Une classe doit avoir une seule responsabilité, donc une seule raison de changer. |
+| **Open/Closed Principle (OCP)**    | Une entité doit être ouverte à l'extension, mais fermée à la modification directe. |
+| **Liskov Substitution Principle (LSP)** | Les objets d'une classe dérivée doivent pouvoir remplacer ceux de leur classe mère sans problème. |
+| **Interface Segregation Principle (ISP)** | Les interfaces doivent être spécifiques et adaptées, plutôt que générales et trop larges. |
+| **Dependency Inversion Principle (DIP)** | Les modules haut niveau et bas niveau doivent dépendre d'abstractions.          | 
+
+
+- 2 . Craftsman ?
+En développement, un **craftsman** (ou **software craftsman**) est un développeur qui adhère aux principes de l’artisanat logiciel (*Software Craftsmanship*). Cela signifie qu’il met un fort accent sur la qualité du code, l'amélioration continue et la collaboration. Voici les caractéristiques principales d’un craftsman :  
+
+1. **Code propre et maintenable** : Suivi des principes comme **SOLID**, **DRY** (*Don't Repeat Yourself*), et **KISS** (*Keep It Simple, Stupid*).  
+2. **Pratiques agiles** : Utilisation de méthodologies comme le TDD (*Test-Driven Development*), BDD (*Behavior-Driven Development*), et l’intégration continue.  
+3. **Revue de code** : Participation active à des revues de code pour garantir la qualité collective.  
+4. **Amélioration continue** : Investissement personnel dans l’apprentissage (nouvelles technologies, design patterns, architectures).  
+5. **Mentorat et partage** : Collaboration avec l’équipe pour transmettre les bonnes pratiques et encourager un environnement d’apprentissage.  
+6. **Responsabilité** : Engagement à livrer un produit de haute qualité en respectant les attentes des utilisateurs et les contraintes techniques.  
+
+C’est donc un développeur qui ne se contente pas de "faire fonctionner" le code, mais vise à produire un code *exemplaire* et durable.
