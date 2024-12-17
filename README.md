@@ -374,13 +374,14 @@ Nous devrions l'utiliser lorsque nous voulons construire des systèmes qui sont 
 
 
 - 2 . Craftsman ?
+
 En développement, un **craftsman** (ou **software craftsman**) est un développeur qui adhère aux principes de l’artisanat logiciel (*Software Craftsmanship*). Cela signifie qu’il met un fort accent sur la qualité du code, l'amélioration continue et la collaboration. Voici les caractéristiques principales d’un craftsman :  
 
-1. **Code propre et maintenable** : Suivi des principes comme **SOLID**, **DRY** (*Don't Repeat Yourself*), et **KISS** (*Keep It Simple, Stupid*).  
-2. **Pratiques agiles** : Utilisation de méthodologies comme le TDD (*Test-Driven Development*), BDD (*Behavior-Driven Development*), et l’intégration continue.  
-3. **Revue de code** : Participation active à des revues de code pour garantir la qualité collective.  
-4. **Amélioration continue** : Investissement personnel dans l’apprentissage (nouvelles technologies, design patterns, architectures).  
-5. **Mentorat et partage** : Collaboration avec l’équipe pour transmettre les bonnes pratiques et encourager un environnement d’apprentissage.  
-6. **Responsabilité** : Engagement à livrer un produit de haute qualité en respectant les attentes des utilisateurs et les contraintes techniques.  
+  - 1. **Code propre et maintenable** : Suivi des principes comme **SOLID**, **DRY** (*Don't Repeat Yourself*), et **KISS** (*Keep It Simple, Stupid*).  
+  - 2. **Pratiques agiles** : Utilisation de méthodologies comme le TDD (*Test-Driven Development*), BDD (*Behavior-Driven Development*), et l’intégration continue.  
+  - 3. **Revue de code** : Participation active à des revues de code pour garantir la qualité collective.  
+  - 4. **Amélioration continue** : Investissement personnel dans l’apprentissage (nouvelles technologies, design patterns, architectures).  
+  - 5. **Mentorat et partage** : Collaboration avec l’équipe pour transmettre les bonnes pratiques et encourager un environnement d’apprentissage.  
+  - 6. **Responsabilité** : Engagement à livrer un produit de haute qualité en respectant les attentes des utilisateurs et les contraintes techniques.  
 
 C’est donc un développeur qui ne se contente pas de "faire fonctionner" le code, mais vise à produire un code *exemplaire* et durable.
